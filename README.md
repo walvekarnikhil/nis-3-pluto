@@ -100,19 +100,19 @@
             </td>
             <td>
             P.T.<br>
-<a href="https://us05web.zoom.us/j/4990991489?pwd=eGVjTDhtY3huQVVEaEFlWDRuamU0QT09">Click to Join</a>
+<a target="_blank" href="https://us05web.zoom.us/j/4990991489?pwd=eGVjTDhtY3huQVVEaEFlWDRuamU0QT09">Click to Join</a>
             </td>
             <td style="background-color:#888888" >
             </td>
             <td>
             Music<br>
-<a href="https://us05web.zoom.us/j/5228864872?pwd=THBpMTRUVXFjcTRxNUlQT1NjQUtxdz09">Click to Join</a>
+<a target="_blank" href="https://us05web.zoom.us/j/5228864872?pwd=THBpMTRUVXFjcTRxNUlQT1NjQUtxdz09">Click to Join</a>
             </td>
             <td style="background-color:#888888" >
             </td>
             <td>
             Art and Craft<br>
-<a href="https://us05web.zoom.us/j/6825708887?pwd=RlRRMEVtaUtaVVZIdjh5eG1TR0oyZz09">Click to Join</>
+<a target="_blank" href="https://us05web.zoom.us/j/6825708887?pwd=RlRRMEVtaUtaVVZIdjh5eG1TR0oyZz09">Click to Join</>
             </td>            
         </tr>
         <tr>
@@ -121,23 +121,23 @@
             </td>
             <td>
             Science<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             EVS<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             EVS<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             Marathi<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             EVS<br>
-<a href="https://us05web.zoom.us/j/6825708887?pwd=RlRRMEVtaUtaVVZIdjh5eG1TR0oyZz09">Click to Join</>
+<a target="_blank" href="https://us05web.zoom.us/j/6825708887?pwd=RlRRMEVtaUtaVVZIdjh5eG1TR0oyZz09">Click to Join</>
             </td>            
         </tr>
          <tr>
@@ -146,23 +146,23 @@
             </td>
             <td>
             Maths<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             Science<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             Marathi<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             Maths<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             Maths<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</>
             </td>            
         </tr>
         <tr style="background-color:#ffc001" >
@@ -176,23 +176,23 @@
             </td>
             <td>
             English<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             English<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             Maths<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             English<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</a>
             </td>
             <td>
             English<br>
-<a href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</>
+<a target="_blank" href="https://us02web.zoom.us/j/5160375747?pwd=dXlacHROS2Zqb1A5M25INzB5NVdwdz09">Click to Join</>
             </td>            
         </tr>
     </tbody>
